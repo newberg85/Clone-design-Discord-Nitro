@@ -28,7 +28,7 @@
 
 ### Links
 
-- Site: https://newberg85.github.io/desafio-front-end-mentor-qrcode/
+- Site: https://newberg85.github.io/Clone-design-Discord-Nitro/
 
 
 
