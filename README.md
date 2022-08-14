@@ -18,7 +18,7 @@
 ## overview
 
 ### Screenshot
-![IMG_20220612_185118](https://github.com/newberg85/Clone-design-Discord-Nitro/issues/1#issue-1338353714)
+![IMG_20220814_185118](https://github.com/newberg85/Clone-design-Discord-Nitro/issues/1#issue-1338353714)
 
 
 
