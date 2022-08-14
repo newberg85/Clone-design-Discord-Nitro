@@ -1,0 +1,97 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #A270FF, #FF9FBB);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 97.4vh;
+}
+
+/*======== HEADER ==========*/
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.logo img {
+  width: 49%;
+}
+
+.menu img{
+  width: 80%;
+}
+
+/*============ MAIN ==========*/
+
+main {
+  width: 100%;
+}
+
+.nitro-logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 9rem;
+}
+.person {
+  position: absolute;
+  z-index: -1000;
+  padding: 30px;
+  overflow:hidden;
+  top: 110px;
+}
+
+.person img {
+  width: 80%;
+  float: right;
+  position: relative;
+  right: -100px;
+}
+
+.container p {
+  width: 90%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  color: #fff;
+  font-weight: 300;
+  margin-top: -60px;
+  line-height: 28px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.buttons button {
+  background: #23272a;
+  width: 340px;
+  margin-top: 20px;
+  margin:0 auto;
+  margin-top: 20px;
+  height: 55px;
+  border-radius: 28px;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.buttons button span {
+  background: #5864f3;
+  margin-left: 10px;
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 5px;
+}
