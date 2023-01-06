@@ -327,6 +327,11 @@ main {
       font-size: 2rem;
       line-height: 2rem;
   }
+    
+  .content-left p {
+    font-size: .8rem;
+    text-align: center;
+  }
 
   .content-right{
       width: 100%;
